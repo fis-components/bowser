@@ -1,0 +1,10 @@
+{
+    "name": "bowser",
+    "description": "a browser detector",
+    "repos": "https://github.com/ded/bowser.git",
+    "main": "bowser.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
